@@ -34,7 +34,7 @@ modules:
       - type: git
         url: https://github.com/tangsangsimida/EasyKiConverter.git
         tag: v3.1.1
-        commit: 83ad5df89a3e47a3857b370304c8f3ab6d7be798
+        commit: 62c51d6c86d17ec2b57aa82555dcbb3bc5e44ec1
       - type: archive
         url: https://github.com/QtExcel/QXlsx/archive/9f545935a1effa0144ba76598e95a7597210553a.tar.gz
         sha256: 4629430e80a4a9f9917526b2b02ad0f3d347551560e1f94a8a58434f457e27a6
