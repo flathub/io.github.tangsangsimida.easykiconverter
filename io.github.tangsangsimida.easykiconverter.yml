@@ -33,8 +33,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/tangsangsimida/EasyKiConverter.git
-        tag: v3.1.3
-        commit: 66eeaed8cc341b55c8d1ebffc659c25d6834135a
+        tag: v3.1.4
+        commit: 52dd4901616cb654660b4afabc51ada02fb2c360
       - type: archive
         url: https://github.com/QtExcel/QXlsx/archive/9f545935a1effa0144ba76598e95a7597210553a.tar.gz
         sha256: 4629430e80a4a9f9917526b2b02ad0f3d347551560e1f94a8a58434f457e27a6
